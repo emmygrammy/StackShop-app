@@ -44,7 +44,7 @@ export default function ProductCard() {
             $180
           </p>
           <p className="text-lg font-bold text-green-600">
-            $120
+            $420
           </p>
         </div>
 

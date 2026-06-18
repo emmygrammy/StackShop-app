@@ -30,14 +30,14 @@ export default function Header() {
           >
             About
           </Link>
-          <a
+          {/* <a
             href="https://tanstack.com/start/latest/docs/framework/react/overview"
             className="nav-link"
             target="_blank"
             rel="noreferrer"
           >
             Docs
-          </a>
+          </a> */}
         </div>
 
         <div className="ml-auto flex items-center gap-1.5 sm:gap-2">
